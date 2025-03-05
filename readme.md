@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ishu Geol]!
+# 👋 Hi, I'm Ishu Geol!
 
 Welcome to my GitHub profile! I'm a passionate **full-stack developer**, founder of **SparksBytes Solution**, and the creator of multiple innovative projects, including a **full-stack food delivery app** and a **Blinkit-like application**. 🚀
 
