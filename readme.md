@@ -46,7 +46,7 @@ An instant grocery delivery platform built with a seamless **checkout and Razorp
 - 👕 **Launching My Clothing Brand: Markslona**
 
 ## 🤝 Let's Connect!
-- 🌐 [Portfolio]([https://yourwebsite.com](https://developer-folio-master-mocha.vercel.app/))
+- 🌐 [Portfolio](https://developer-folio-master-mocha.vercel.app/)
 - 🔗 [LinkedIn](https://linkedin.com/in/ishugoel21)
 - 📸 [Instagram](https://instagram.com/ishugoel.25)
 - 📧 [Email](mailto:goelishu8682gmail.com)
