@@ -3,10 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **full-stack developer**, founder of **SparksBytes Solution**, and the creator of multiple innovative projects, including a **full-stack food delivery app** and a **Blinkit-like application**. 🚀
 
 ## 🔥 About Me
-- 💻 Skilled in **React , Next.js, MongoDB, SQL, and Strapi**
-- ⚡ Built a **Rapido-style app** with real-time Firebase updates
-- 🏗️ Developing a **facial recognition authentication system**
-- 🎵 Recently wrote my **first song using AI** and looking for collaborations 🎶
+- 💻 Skilled in **React , Next.js, MongoDB, SQL, and Postgres**
 
 ## 🏢 Work Experience
 ### **💼 Software Development & SQAE Intern at Crowd Bazar UK (Present)**
