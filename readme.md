@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer**, and the
 - 💻 Skilled in **React , Next.js, MongoDB, SQL, and Postgres**
 
 ## 🏢 Work Experience
-### **💼 Software Engineer At Surely Placed (USA Present) **
+### **💼 Software Engineer At Surely Placed (USA Present)**
 
 - 🛠️ Build Ai resume builder and auto-optimization solutions via OpenAI
 - 🛠️ Working on real world problems and helpins students in getiing placed in tech organisation
