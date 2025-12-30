@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishu Geol!
 
-Welcome to my GitHub profile! I'm a passionate **full-stack developer**, founder of **SparksBytes Solution**, and the creator of multiple innovative projects, including a **full-stack food delivery app** and a **Blinkit-like application**. 🚀
+Welcome to my GitHub profile! I'm a passionate **full-stack developer**, and the creator of multiple innovative projects, including a **full-stack food delivery app** and a **Blinkit-like application**. 🚀
 
 ## 🔥 About Me
 - 💻 Skilled in **React , Next.js, MongoDB, SQL, and Postgres**
