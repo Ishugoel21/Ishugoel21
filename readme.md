@@ -6,7 +6,15 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer**, and the
 - 💻 Skilled in **React , Next.js, MongoDB, SQL, and Postgres**
 
 ## 🏢 Work Experience
-### **💼 Software Development & SQAE Intern at Crowd Bazar UK (Present)**
+### **💼 Software Engineer At Surely Placed (USA Present) **
+
+- 🛠️ Build Ai resume builder and auto-optimization solutions via OpenAI
+- 🛠️ Working on real world problems and helpins students in getiing placed in tech organisation
+- 🔍 Testing APIs using **Burp Suite & Postman**
+- 📊 Analyzing and improving system performance by implementing redis cache with queue
+- 🏗️ Contributing to **full-stack development** tasks and enhancing the product performance by 60%
+
+### **💼 Former Software Development & SQAE Intern at Crowd Bazar UK**
 
 - 🛠️ Build order management system 
 - 🛠️ Working on software quality assurance and testing
@@ -14,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer**, and the
 - 📊 Analyzing and improving system performance
 - 🏗️ Contributing to **full-stack development** tasks
 
-### **🚀 Founder & Developer at SparksBytes Solution**
+### **🚀Developer at SparksBytes Solution**
 - 💡 Building innovative software solutions
 - 🏗️ Leading multiple projects in **AI, automation, and e-commerce**
 - 🌍 Developing scalable applications for clients
