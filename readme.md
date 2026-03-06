@@ -67,7 +67,7 @@ A dynamic ride-booking system with **Web sockets** for live updates.
 - 👕 **Launching My Clothing Brand: Markslona**
 
 ## 🤝 Let's Connect!
-- 🌐 [Portfolio](https://developer-folio-master-mocha.vercel.app/)
+- 🌐 [Portfolio](https://ishugoel.engineer/)
 - 🔗 [LinkedIn](https://linkedin.com/in/ishugoel21)
 - 📸 [Instagram](https://instagram.com/ishugoel.25)
 - 📧 [Email](mailto:goelishu8682gmail.com)
